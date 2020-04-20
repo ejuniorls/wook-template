@@ -2,6 +2,14 @@
 body{
     font-size: 15px;
 }
+.navbar-light .navbar-nav .nav-link {
+    font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #444444;
+}
 .card, .btn, .form-control { border-radius: 0; }
 .bd-navbar{
     min-height: 4rem;
